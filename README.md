@@ -1,2 +1,2 @@
-# sphan.github.io
+# sphan
 my_web
